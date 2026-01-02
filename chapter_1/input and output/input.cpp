@@ -33,7 +33,7 @@ int main()
 
     std::cout << "Type your full name."
      << std::endl;
-    
+    //!! spacial function
     std::getline(std::cin,full_name);
 
     std::cin >> age2;
